@@ -1,7 +1,5 @@
 # Lucas Machado
-
-## About Me
-Software engineering student at McMaster University, passionate about computer science and statistics.
+Second year computer science student at McMaster University, passionate about computer science and statistics.
 
 ## Education
 - **McMaster University**
