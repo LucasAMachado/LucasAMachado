@@ -1,18 +1,22 @@
 # Lucas Machado
 
 ## About Me
-I'm an aspiring software engineer currently pursuing a Computer Science degree with a minor in Statistics at McMaster University.
+Software engineering student at McMaster University, passionate about computer science and statistics.
 
-## 🎓 Education
+## Education
 - **McMaster University**
-  - Bachelor of Science in Computer Science
+  - B.Sc. in Computer Science
   - Minor in Statistics
 
-## 💻 Technical Skills
-- **Programming Languages**: Python, Java, JavaScript, C, C++, HTML, CSS, SQL
-- **Frameworks & Libraries**: 
-  - Web: React, Django, Flask
-  - Data Science & ML: TensorFlow, Keras, PyTorch, scikit-learn, NumPy, pandas
-- **Technologies**: 
-  - Version Control: Git
-  - Databases: PostgreSQL, Redis
+## Technical Skills
+
+### Programming Languages
+Python, Java, JavaScript, C, C++, Go, HTML, CSS, SQL
+
+### Frameworks & Libraries
+- **Web**: React, Django, Flask
+- **Data Science & ML**: TensorFlow, Keras, PyTorch, scikit-learn, NumPy, pandas
+
+### Technologies
+- **Version Control**: Git
+- **Databases**: PostgreSQL, Redis
